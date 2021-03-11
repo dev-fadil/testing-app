@@ -100,9 +100,8 @@
             <div class="container-fluid">
 
                 <div class="jumbotron">
-                    <h1 class="display-3">Welcome to SMP 1 Wringin Website</h1>
-                    <h2>Create by Muhammad Fadil Hasan</h2>
-                    <h3></h3>
+                    <h3 class="display-3">Welcome to SMP 1 Wringin Website</h3>
+
                     @if (session('berhasil'))
                         <div class="alert alert-success alert-dismissible fade show" role="alert">
                             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
